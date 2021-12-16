@@ -9,6 +9,7 @@ package Leetcode_String;
  */
 public class Solution2182_2 {
     public String reverseLeftWords(String s, int n) {
+
         StringBuilder res = new StringBuilder();
         StringBuilder left = new StringBuilder();
         for(int i = 0;i < s.length();i++){

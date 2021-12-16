@@ -1,7 +1,7 @@
 package HashTable;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+
 
 /**
  * @author ZONGXI LI
