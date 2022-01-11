@@ -1,5 +1,7 @@
 package test;
 
+
+
 /**
  * @author ZONGXI LI
  * @version 1.0.0
@@ -9,12 +11,6 @@ package test;
  */
 public class t1 {
     public static void main(String[] args) {
-        Integer t = Integer.valueOf(1000);
-        Integer b = Integer.valueOf(1000);
-        System.out.println(t);
-        System.out.println(b);
-        System.out.println(t.equals(b));
-        System.out.println(t.equals(b));
-        System.out.println(t.compareTo(b));
+
     }
 }
